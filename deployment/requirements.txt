@@ -1,0 +1,6 @@
+Amazon S3 setup:
+
+
+
+
+Amazon EC2 setup:
