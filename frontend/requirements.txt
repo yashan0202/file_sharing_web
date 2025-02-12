@@ -1,3 +1,0 @@
-1. Make dark mode work
-2. add animations on side
-3. add the title in center
